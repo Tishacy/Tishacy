@@ -6,4 +6,4 @@
 - ✍️ Write small tools to make life easier.
 - 💬 Languages: Java, Python, Go, JavaScript.
 
-[![Tishacy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tishacy&count_private=true&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Tishacy's Github stats](https://github.com/Tishacy/github-stats/blob/master/generated/overview.svg)
